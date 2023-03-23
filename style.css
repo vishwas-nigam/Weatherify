@@ -1,0 +1,36 @@
+.navbar-brand {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-style: italic;
+
+}
+
+body {
+    background-color: rgb(60, 60, 60);
+}
+
+.form-control {
+    color: black;
+}
+
+.btn-outline-success {
+    border-style: solid;
+    border-color: white;
+  
+}
+
+.white_karde {
+    color: white;
+}
+
+.btn-outline-success {
+    color: white;
+}
+
+h1 {
+    color: white;
+    padding: 12px;
+}
+
+.text-center11 {
+    font-family: cursive;
+}
